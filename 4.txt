@@ -1,38 +1,129 @@
-1. Alapok: Szemantikus HTML5 és struktúra
-Meg kell tanulnod a weboldalak vázának felépítését modern, keresőbarát (SEO) tagekkel, ahelyett, hogy mindent egyszerű `<div>` konténerekbe pakolnál.
-Szemantikus elrendezés: Sajátítsd el a strukturális elemek használatát: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, és `<footer>`.
-Tartalmi elemek: Alkalmazd helyesen a címsorokat (`<h1>`-`<h6>`), bekezdéseket (`<p>`), linkeket (`<a>`) és képeket (`<img>`).
-Adatszerkezetek: Építs rendezett (`<ol>`), rendezetlen (`<ul>`) és leíró (`<dl>`) listákat. Készíts átlátható adattáblázatokat (`<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, `<td>`).
-Attribútumok: Értsd meg a legfontosabb attribútumok működését, mint a `href`, `src`, `alt` (akadálymentesítéshez kulcsfontosságú), `id` és `class`.
-
-2. Formázás: Modern CSS3 alapok
-A színeken és betűtípusokon túl meg kell értened a modern elrendezési rendszereket és CSS-függvényeket.
-Alapvető formázás: Szövegformázás, betűtípusok, színek, hátterek és szegélyek beállítása.
-A Doboz-modell (Box Model): Teljesen lásd át a `margin` (külső margó), `padding` (belső margó), `border` (szegély) és a tartalom méreteinek kapcsolatát.
-Elrendezési rendszerek: Felejtsd el a régi elavult módszeket; tanuld meg magabiztosan használni a CSS Flexbox és CSS Grid rendszereket az elemek igazításához.
-CSS függvények és változók: Tanuld meg használni az olyan függvényeket, mint a `calc()`, `rgba()`, `clamp()`, valamint a natív CSS változókat az újrahasznosítható kódért.
-
-3. Reszponzivitás és Mobil-első szemlélet
-A weboldalaknak minden eszközön (mobil, tablett, monitor) tökéletesen kell megjelenniük.
-Viewport meta tag: Tanuld meg beállítani a `<meta name="viewport" content="...">` taget a HTML dokumentum fejrészében (`<head>`).
-Media Query-k: Írj `@media` szabályokat a CSS-ben, amelyek a képernyő szélessége (töréspontok, pl. `max-width: 768px`) alapján módosítják a dizájnt.
-Rugalmas méretek: Fix pixelek (`px`) helyett használj relatív mértékegységeket: százalék (`%`), `em`, `rem`, `vw`, `vh`.
-
-4. Fejlesztés gyorsítása: Bootstrap keretrendszer
-Nem kell mindent nulláról megírnod; ismerned kell az iparág legnépszerűbb UI keretrendszerét.
-Beállítás: Tanuld meg beépíteni a Bootstrappet CDN linkeken vagy helyi fájlokon keresztül.
-A Rácsrendszer (Grid System): Sajátítsd el a 12 oszlopos, reszponzív elrendezést az olyan osztályok használatával, mint a `.container`, `.row`, `.col-md-6`, stb.
-Komponensek: Használd és szabd testre a kész elemeket: navigációs sávok (`.navbar`), gombok, kártyák (`.card`), modális ablakok és űrlapok.
-Segédosztályok (Utilities): Alkalmazz gyors formázásokat margókhoz (`m-3`), kitöltésekhez (`p-2`), flexboxhoz (`d-flex`) vagy szövegigazításhoz.
-
-5. Keresőoptimalizálási (SEO) alapok
-A keresőmotoroknak (pl. Google) könnyen kell tudniuk olvasni és rangsorolni az oldaladat.
-Meta adatok: Állítsd be pontosan a `<title>`, `<meta name="description">` és `<meta charset="utf-8">` tageket.
-Címsor-hierarchia: Figyelj arra, hogy egy oldalon csak egyetlen `<h1>` tag szerepeljen, amit logikusan követnek a `<h2>`, `<h3>` szintek.
-Képek optimalizálása: Mindig adj meg leíró jellegű `alt` (helyettesítő) szöveget a képekhez, és figyelj a fájlméret tömörítésére a gyors betöltésért.
-
-6. UX/UI és Projektmunka (A Portfólió)
-Ahhoz, hogy bizonyítsd, képes vagy önállóan vagy csapatban dolgozni, építsd fel az alábbi gyakorló projekteket:
-1. Projekt (Tiszta HTML/CSS): Készíts egy tisztán szemantikus, táblázatokkal teli adat-kimutatási oldalt vagy egy dokumentációs weboldalt.
-2. Projekt (Reszponzív Landing Page): Építs fel egy személyes bemutatkozó oldalt (portfóliót) vagy termékoldalt nyers CSS Flexbox/Grid és Media Queries használatával.
-3. Projekt (Bootstrap projekt): Hozz létre egy teljesen mobilbarát, modern céges weboldalt vagy egy webshop front-end felületet a Bootstrap segítségével.
+4
+6.2 Ágazati alapoktatás szakmai követelményei
+Sor-
+szám
+Készségek, képessé-
+gek Ismeretek Elvárt viselkedés-
+módok, attitűdök
+Önállóság és fele-
+lősség mértéke
+1
+Adott kapcsolási rajz
+alapján egyszerűbb
+áramköröket épít
+próbapanel segítség-
+ével vagy forrasztá-
+sos technológiával.
+Ismeri az elektronikai
+alapfogalmakat, kap-
+csolódó fizikai törvé-
+nyeket, alapvető alkat-
+részeket és kapcsolá-
+sokat.
+A funkcionalitás
+biztosítása mellett
+törekszik az esztéti-
+kus kialakításra (pl.
+minőségi forrasz-
+tás, egyenletes al-
+katrész sűrűség, ol-
+vashatóság).
+Az elektromos be-
+rendezésekre vonat-
+kozó munka- és bal-
+esetvédelmi szabá-
+lyokat a saját és má-
+sok testi épsége ér-
+dekében betartja és
+betartatja.
+2
+Alapvető villamos
+méréseket végez ön-
+állóan a megépített
+áramkörökön.
+Ismeri az elektromos
+mennyiségek mérési
+metódusait, a mérő-
+műszerek használatát.
+3
+Elvégzi a számítógé-
+pen és a mobil esz-
+közökön az operá-
+ciós rendszer (pl.
+Windows, Linux,
+Android, iOS), vala-
+mint az alkalmazói
+szoftverek telepíté-
+sét, frissítését és
+alapszintű beállítá-
+sát. Grafikus felüle-
+ten, valamint pa-
+rancssorban hasz-
+nálja a Windows, és
+Linux operációs
+rendszerek alap-
+szintű parancsait és
+szolgáltatásait (pl.
+állomány- és könyv-
+tárkezelési művele-
+tek, jogosultságok
+beállítása, szövegfáj-
+lokkal végzett műve-
+letek, folyamatok ke-
+zelése).
+Ismeri a számítógépen
+és a mobil informati-
+kai eszközökön hasz-
+nált operációs rend-
+szerek telepítési és
+frissítési módjait,
+alapvető parancsait és
+szolgáltatásait, vala-
+mint alapvető beállí-
+tási lehetőségeit.
+Törekszik a fel-
+használói igények-
+hez alkalmazkodó
+szoftverkörnyezet
+kialakítására.
+Önállóan elvégzi a
+kívánt szoftverek te-
+lepítését, szükség
+esetén gondoskodik
+az eszközön koráb-
+ban tárolt adatok biz-
+tonsági mentéséről.
+4
+Elvégzi a PC perifé-
+riáinak csatlakoztatá-
+sát, szükség esetén új
+alkatrészt szerel be,
+vagy alkatrészt cse-
+rél egy számítógép-
+ben.
+Ismeri az otthoni és
+irodai informatikai
+környezetet alkotó
+legáltalánosabb össze-
+tevők (PC, nyomtató,
+mobiltelefon, WiFi
+router stb.) szerepét,
+alapvető működési
+módjukat. Ismeri a PC
+és a mobil eszközök
+főbb alkatrészeit (pl.
+alaplap, CPU, memó-
+ria) és azok szerepét.
+Törekszik a végre-
+hajtandó műveletek
+precíz és előírások-
+nak megfelelő el-
+végzésére.
+Az informatikai be-
+rendezésekre vonat-
+kozó munka- és bal-
+esetvédelmi szabá-
+lyokat a saját és má-
+sok testi épsége ér-
+dekében betartja és
+betartatja
