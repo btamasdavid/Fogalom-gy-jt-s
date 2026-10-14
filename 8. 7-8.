@@ -1,0 +1,10 @@
+7:
+A tiszta kód elvei olyan szoftverfejlesztési szabályok és bevált gyakorlatok, amelyek célja, hogy a megírt forráskód könnyen olvasható, egyszerűen tesztelhető és hosszú távon is fenntartható legyen.
+A szöveg alapján a tiszta kód a következő gyakorlati elemekből áll:
+• Jól átlátható és tagolt: A kód szerkezete logikus, szellős, és ránézésre is könnyen követhető a felépítése.
+• Mások számára is értelmezhető: Úgy van megírva, hogy egy másik fejlesztő is gyorsan megértse a működését anélkül, hogy órákig kellene bogarásznia.
+• Megfelelő mennyiségű megjegyzés (komment): A kód tartalmaz magyarázatokat, de csak a szükséges helyeken (nem írja túl, de nem is hagyja magyarázat nélkül a komplexebb részeket).
+
+8:
+Magas szintű nyelvek (C#, Java)	Adatbázis-kezelést végző, stabil asztali alkalmazások (konzolos vagy grafikus) hatékony lefejlesztésére.
+Grafikus vagy konzolos felület	A felhasználó igényeihez igazodó megjelenítés biztosítására, törekedve a minél könnyebb használhatóságra.

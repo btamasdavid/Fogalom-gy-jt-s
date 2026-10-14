@@ -1,0 +1,6 @@
+A REST (Representational State Transfer) egy szoftverarchitektúra-stílus, amely szabályokat és alapelveket határoz meg ahhoz, hogy a webes alkalmazások (például egy frontend kliens és egy backend szerver) hogyan kommunikáljanak egymással az interneten keresztül a szabványos HTTP protokoll segítségével.
+
+Használat: 
+• Kliens oldali komponensek fejlesztése: Segítségével a JavaScript nyelven írt weboldal (a kliens) képes közvetlenül és strukturáltan adatot cserélni a háttérrendszerrel.
+• RESTful működés: Biztosítja, hogy az alkalmazás követi a REST alapelveit (például a szabványos HTTP kéréseket), így a frontend és a backend tisztán elválasztható egymástól.
+• Adatküldés és -fogadás: Az AJAX technológiával kombinálva lehetővé teszi, hogy a kliens a háttérben küldjön vagy fogadjon adatokat a RESTful szervertől anélkül, hogy a teljes weboldalt újra kellene tölteni.

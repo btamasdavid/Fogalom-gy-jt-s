@@ -1,0 +1,34 @@
+
+1. Alapvető technológiák és szabványok
+
+• HTML5 (HyperText Markup Language 5):
+	• A weboldalak strukturális és szemantikus felépítését biztosító legújabb leíró nyelv (pl. elemek, attribútumok, listák, táblázatok).
+	• Ezzel hozzuk létre a weblap vázát és tartalmát úgy, hogy a böngészők és a keresőmotorok is pontosan értsék a tartalom logikai felépítését.
+• CSS3 (Cascading Style Sheets 3):
+	• A weboldalak vizuális megjelenéséért felelős stíluslap-nyelv (stílusjellemzők és függvények).
+	• Segítségével formázzuk meg a HTML-vázat (színek, betűtípusok, elrendezések), így biztosítva az igényes és esztétikus kinézetet a tartalomtól elkülönítve.
+• Szabványos megjelenítés:
+	•  Azért hogy a weblap minden modern böngészőben és eszközön egységesen, hibamentesen és a hivatalos webes irányelveknek (W3C) megfelelően jelenjen meg.
+
+2. Modern tervezési elvek és keretrendszerek
+
+• Reszponzív webdizájn (Responsive Web Design):
+	• Olyan tervezési és fejlesztési módszertan, amely rugalmas rácsokat, képeket és CSS-szabályokat használ.
+	• Azért hogy a weblap automatikusan és optimálisan igazodjon a legkülönbözőbb kijelzőméretekhez (mobiltelefonok, tabletek, monitorok), biztosítva a jó olvashatóságot és navigációt.
+• Bootstrap keretrendszer:
+	• Egy előre megírt, nyílt forráskódú HTML-, CSS- és JavaScript-elemeket tartalmazó fejlesztői csomag.
+	• Felgyorsítja és leegyszerűsíti a reszponzív, modern weboldalak felépítését a kész sablonok és a beépített rácsrendszer (grid system) segítségével.
+
+3. Hatékonyság és felhasználói élmény
+
+• Keresőoptimalizálás (SEO - Search Engine Optimization):
+	• Olyan technikai és tartalmi beállítások alkalmazása, amelyek javítják a weboldal láthatóságát a keresőkben (pl. Google).
+	• Azért hogy a releváns kulcsszavakra kereső felhasználók könnyebben megtalálják a weblapot, és ezáltal növekedjen az oldal látogatottsága.
+• Igényes és a használatot megkönnyítő kialakítás (UI/UX alapok):
+	• Törekedés a tiszta, logikus és vizuálisan vonzó felületek létrehozására.
+	• Azért hogy a látogatók könnyen kiigazodjanak az oldalon (jó felhasználói élmény), és gyorsan megtalálják, amit keresnek.
+
+4. Munkaszervezés és felelősségi szintek
+
+• Önálló munkavégzés (kisebb projektek): A szakember egyedül képes megtervezni, kódolni és optimalizálni egy kisebb weboldalt az elejétől a végéig.
+• Csapatmunka és részfeladatok (összetettebb projektek): Nagyobb rendszerek esetén a fejlesztő egy nagyobb csapat tagjaként, irányítás (pl. vezető fejlesztő vagy projektmenedzser) mellett dolgozik, egy-egy specifikus modul vagy látványelem megvalósításán.

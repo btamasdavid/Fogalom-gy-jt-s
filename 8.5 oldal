@@ -1,0 +1,13 @@
+• ECMAScript: A JavaScript nyelv hivatalos, nemzetközi szabványa. Ez határozza meg a nyelv alapszabályait, szintaxisát és működését, hogy a különböző böngészők egységesen futtassák a kódot.
+• ES6 (ECMAScript 2015): A JavaScript történetének egyik legjelentősebb frissítési csomagja. Olyan modern, hatékonyságnövelő elemeket vezetett be, mint az okosabb változók (let, const), a nyílfüggvények (=>), az osztályok és a sablon-literálok, melyek tisztábbá teszik a kódot.
+• AJAX (Asynchronous JavaScript and XML): Egy olyan technológia, amely lehetővé teszi, hogy a weboldal a háttérben adatokat cseréljen a szerverrel az oldal újratöltése nélkül. Ennek köszönhetően a webhelyek gyorsabbak és applikáció-szerűbbek lesznek (pl. a chatüzenetek azonnal megjelennek).
+
+
+HTML5	A weboldal szerkezetének, vázának és szemantikus tartalmának felépítésére.
+CSS3 & Stíluslapok	A weboldal vizuális formázására, színek, elrendezések és dizájn kialakítására.
+Reszponzív webdizájn	Hogy az oldal minden kijelzőn (mobil, tablet, PC) automatikusan igazodjon a mérethez.
+Bootstrap	A fejlesztés felgyorsítására előre gyártott, kész reszponzív elemekkel és rácsrendszerrel.
+Keresőoptimalizálás (SEO)	Hogy a weboldal jó helyezést érjen el a Google-ben, és könnyen megtalálják a látogatók.
+JavaScript	A weboldalak dinamikus viselkedésének, animációinak és eseménykezelésének biztosítására.
+ECMAScript & ES6	A modern, hatékony és tiszta kódíráshoz a legújabb nyelvi szabványok szerint.
+AJAX / Aszinkron kód	A háttérben történő adatfrissítésre, hogy a felhasználónak ne kelljen újra és újra betöltenie az oldalt.

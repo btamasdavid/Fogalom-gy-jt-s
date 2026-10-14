@@ -1,0 +1,21 @@
+
+1. Csapatmunka és verziókezelés
+
+• Git verziókezelő rendszer: Egy olyan digitális háttérprogram, amely folyamatosan menti a forráskód állapotát. Úgy működik, mint egy időgép: ha a fejlesztő elront valamit a kódban, ennek segítségével másodpercek alatt vissza tudja állítani a tegnapi, még jól működő változatot.
+• Csoportmunkaeszközök és szolgáltatások (GitHub, Slack, Trello, Teams): Olyan internetes felületek, amelyek összekötik a fejlesztőket, hogy távolról is zökkenőmentesen dolgozzanak. A Slack és a Teams a gyors üzenetváltásra és online megbeszélésekre való. A Trello egy digitális faliújság, ahol kártyákon látni, ki milyen feladaton dolgozik éppen. A GitHub pedig az a központi tárhely, ahová a csapat tagjai feltöltik az elkészült kódrészleteket, és a rendszer biztonságosan összefésüli azokat.
+• Elvárt viselkedésmódok, attitűdök: Ez a munkához való emberi hozzáállást mutatja meg. Azt jelenti, hogy a fejlesztő nem magának való, hanem igazi csapatjátékos. Figyel a határidőkre, precíz munkát ad ki a kezéből, és ha látja, hogy valamelyik társa elakadt, önként felajánlja a segítségét.
+• Önállóság és felelősség mértéke: Ez a munkahelyi jogkört határozza meg. Ebben a körben a fejlesztő még nem hozhat önálló döntéseket a projekt egészéről, egy tapasztaltabb vezető (például egy Senior fejlesztő vagy projektmenedzser) irányítása és útmutatása alapján dolgozik. Viszont a személyesen rá bízott kisebb feladatért (például egy gomb vagy egy űrlap elkészítéséért) már teljesen egyedül viseli a felelősséget.
+
+2. Technológiai döntések és fejlődés
+
+• Programozási nyelvek, keretrendszerek és könyvtárak: Ezek a szoftverépítés alapkövei. A programozási nyelv (mint a JavaScript vagy Python) az az alapnyelv, amin a számítógéppel beszélünk. A keretrendszer (framework) egy előre megépített digitális váz, ami megadja a program szerkezetét, hogy ne a nulláról kelljen mindent felépíteni. A könyvtár (library) pedig olyan kész kódrészletek gyűjteménye, amiket kész funkcióként (például egy bejelentkezési felület vagy egy grafikon) egyszerűen be lehet emelni a programba.
+• Technikák, eljárások és módszerek: Azok a logikai lépések és bevált szakmai szabályok, amelyek megmutatják, hogyan kell felépíteni egy szoftvert úgy, hogy az gyors, biztonságos és könnyen bővíthető legyen.
+• Elvárt viselkedésmódok, attitűdök: A technológia világa rendkívül gyorsan változik, ezért elvárás a szakmai kíváncsiság. A fejlesztő nem ragad le a régi tudásánál, hanem nyitott az újdonságokra, és folyamatosan, önképzéssel frissíti a tudását (például cikkeket olvas, kurzusokat néz).
+• Önállóság és felelősség mértéke: Ezen a területen a fejlesztő már nagy szabadságot kap. A kapott feladat megvalósításához teljesen egyedül, önállóan választhatja ki, hogy milyen nyelvet, keretrendszert vagy segédeszközt fog használni, mert bízik a cég az ő szakmai értékítéletében.
+
+3. Kommunikáció (magyarul és angolul)
+
+• Kommunikációs formák és etikai szabályok: Azt jelenti, hogy a fejlesztő tudja, mikor melyik csatornát kell használni. Egy gyors kérdésre chaten (Slack/Teams) üzen, egy hivatalos megállapodást e-mailben rögzít, ha pedig bonyolult a téma, telefont vagy prezentációt (online bemutatót) szervez. Ismeri a digitális illemtant (netikett), azaz tudja, hogyan kell tisztelettudóan, érthetően és céges környezethez méltóan fogalmazni.
+• KER B1 szintű angol nyelvismeret: Ez egy alap-középfokú szintet jelent. Nem kell tökéletes kiejtéssel vagy irodalmi szinten beszélni, de alkalmasnak kell lenni arra, hogy a fejlesztő megértse az angol nyelvű szakmai leírásokat, és alapvető mondatokkal el tudja magyarázni a problémáját egy külföldi kollégának vagy ügyfélnek.
+• Konstruktív és együttműködő kommunikáció: A konstruktív szó azt jelenti, hogy „előremutató, építő jellegű”. A fejlesztő a viták vagy problémák során nem hibásokat keres vagy panaszkodik, hanem a megoldásra törekszik, és udvariasan fogalmazza meg a véleményét.
+• Önállóság és felelősség mértéke: A saját feladataival kapcsolatban a fejlesztő engedély nélkül, önállóan beszélhet a megrendelőkkel (ügyfelekkel) és a kollégákkal. Nincs szüksége arra, hogy a főnöke minden levelet átolvasson előtte, de szigorúan kötelező betartania a cég belső titoktartási és kommunikációs szabályzatát.

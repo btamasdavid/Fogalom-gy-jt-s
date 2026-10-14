@@ -1,0 +1,42 @@
+
+Otthoni és irodai hálózatok (SOHO)
+
+• Wi-Fi Router: Olyan hálózati eszköz, amely összeköti a helyi hálózatot az internettel, és vezeték nélküli (Wi-Fi) jelet biztosít a kliensek számára.
+• SSID (Service Set Identifier): A vezeték nélküli hálózat nyilvános neve, amelyet a felhasználók látnak a csatlakozáskor.
+• Ethernet / UTP kábel: A vezetékes hálózati kapcsolatok legelterjedtebb rézalapú kábeltípusa (pl. Cat5e, Cat6), RJ-45-ös csatlakozóval szerelve.
+• IP-cím (Internet Protocol Address): Az eszközök egyedi azonosító száma a hálózaton (IPv4 formátumban pl. 192.168.1.1).
+• DHCP (Dynamic Host Configuration Protocol): Olyan protokoll, amely automatikusan oszt ki IP-címet, alhálózati maszkot és átjárót a hálózatra csatlakozó eszközöknek.
+• 802.11 szabványcsalád: A Wi-Fi technológiák nemzetközi szabványa (pl. 802.11ac / Wi-Fi 5, 802.11ax / Wi-Fi 6), amely meghatározza a sebességet és a frekvenciát (2.4 GHz vagy 5 GHz).
+
+
+
+Kis- és közepes vállalati hálózatok (SME)
+
+• Kapcsoló (Switch): Olyan hálózati eszköz, amely egy alhálózaton (LAN) belül köti össze az eszközöket, és MAC-címek alapján továbbítja az adatcsomagokat.
+• Forgalomirányító (Router): Különböző hálózatok vagy alhálózatok közötti adatforgalmat vezérlő hardver, amely IP-címek alapján választja ki a legjobb útvonalat.
+• Alapértelmezett átjáró (Default Gateway): Az a hálózati csomópont (általában a router belső interfésze), ahová az eszközök az ismeretlen (helyi hálózaton kívüli, pl. internetes) forgalmat küldik.
+• Rack szekrény / Kábelrendező: A hálózati eszközök (switchek, routerek, szerverek) és a strukturált kábelezés (patch panelek) fizikai elhelyezésére és védelmére szolgáló fémszekrény.
+
+Hálózatbiztonság
+
+• Tűzfal (Firewall): Hardveres vagy szoftveres biztonsági rendszer, amely a bejövő és kimenő hálózati forgalmat ellenőrzi és szűri a meghatározott szabályok alapján.
+• WPA2 / WPA3: A Wi-Fi hálózatok titkosítási protokolljai, amelyek megvédik a vezeték nélküli adatforgalmat az illetéktelen lehallgatástól.
+• Malware / Vírusvédelem: Kártékony szoftverek (vírusok, zsarolóprogramok, trójaiak) elleni aktív védelmi rendszer és szoftver.
+• Adathalászat (Phishing): Olyan pszichológiai manipuláción alapuló támadási forma, amely során a támadók legitimnek tűnő üzenetekkel próbálnak érzékeny adatokat (jelszavakat, bankkártyaadatokat) megszerezni.
+
+Hibakeresés és elhárítás (Troubleshooting)
+
+• Ping: Egyszerű hálózati diagnosztikai parancs, amellyel ellenőrizhető, hogy egy adott IP-című eszköz elérhető-e a hálózaton, és mennyi a válaszidő.
+• Traceroute (tracert): Diagnosztikai eszköz, amely megmutatja az adatcsomag útját és a köztes állomásokat (ugrásokat/hopokat) a forrás és a célállomás között.
+• Ipconfig / Ifconfig: Olyan parancssori eszköz, amely megjeleníti az adott számítógép aktuális hálózati beállításait (IP-cím, maszk, DNS, átjáró).
+• Szakmai eszkaláció: Az a folyamat, amikor egy összetett, helyben nem megoldható problémát a hibát behatároló szakember részletes hibaleírással továbbít a magasabb szintű (L2/L3) mérnöki támogatásnak.
+
+
+A hálózati karbantartás legfontosabb irányelvei
+
+A hálózatok folyamatos, hibamentes és biztonságos működését az alábbi karbantartási alapelvek követésével lehet biztosítani:
+• Rendszeres firmware- és szoftverfrissítés: A routerek, switchek és tűzfalak szoftverét (firmware) folyamatosan frissíteni kell a biztonsági rések lezárása és a stabilitás növelése érdekében.
+• Mentési stratégia (Backup) fenntartása: A hálózati eszközök (routerek, tűzfalak) konfigurációs fájljairól a módosítások előtt és rendszeres időközönként is biztonsági mentést kell készíteni, hogy hiba esetén a rendszer gyorsan visszaállítható legyen.
+• Logelemzés és monitorozás: Az eszközök eseménynaplóinak (Syslog) rendszeres ellenőrzése, amely segít azonosítani a kezdődő hardverhibákat vagy a gyanús hálózati tevékenységeket a leállás bekövetkezte előtt.
+• Hitelesítés és hozzáférés-kezelés: Az alapértelmezett gyártói jelszavak azonnali megváltoztatása erős, egyedi jelszavakra, valamint a kezelőfelületek (pl. a router admin felülete) elérésének korlátozása csak a belső, védett hálózatból.
+• Fizikai és környezeti ellenőrzés (Rack-higiénia): A kábelrendezők tisztán tartása, a kábelek feszülésmentes elhelyezése, valamint a rack szekrények hűtőventilátorainak és portalanításának időszakos elvégzése a túlmelegedés miatti hardverhibák megelőzésére.
